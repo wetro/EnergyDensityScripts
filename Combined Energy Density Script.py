@@ -61,7 +61,7 @@ def main():
 		calculateNominalVoltage()
 		
 	else:	
-		print "You broke me! Just Kidding, please enter a valid option."
+		print "You broke me! Just Kidding, please enter a valid option." #Place while loop for this option.
 
 
 main()
